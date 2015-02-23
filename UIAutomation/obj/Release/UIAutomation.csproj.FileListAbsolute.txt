@@ -1,0 +1,8 @@
+D:\static\jaemzware\VS2008 PROJECTS\c#\UIAutomation\UIAutomation\bin\Release\UIAutomation.exe
+D:\static\jaemzware\VS2008 PROJECTS\c#\UIAutomation\UIAutomation\bin\Release\UIAutomation.pdb
+D:\static\jaemzware\VS2008 PROJECTS\c#\UIAutomation\UIAutomation\obj\Release\ResolveAssemblyReference.cache
+D:\static\jaemzware\VS2008 PROJECTS\c#\UIAutomation\UIAutomation\obj\Release\UIAutomation.Form1.resources
+D:\static\jaemzware\VS2008 PROJECTS\c#\UIAutomation\UIAutomation\obj\Release\UIAutomation.Properties.Resources.resources
+D:\static\jaemzware\VS2008 PROJECTS\c#\UIAutomation\UIAutomation\obj\Release\UIAutomation.csproj.GenerateResource.Cache
+D:\static\jaemzware\VS2008 PROJECTS\c#\UIAutomation\UIAutomation\obj\Release\UIAutomation.exe
+D:\static\jaemzware\VS2008 PROJECTS\c#\UIAutomation\UIAutomation\obj\Release\UIAutomation.pdb

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UIAutomation\UIAutomation\bin\Debug\UIAutomation.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UIAutomation\UIAutomation\bin\Debug\UIAutomation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UIAutomation\UIAutomation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UIAutomation\UIAutomation\obj\Debug\UIAutomation.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UIAutomation\UIAutomation\obj\Debug\UIAutomation.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UIAutomation\UIAutomation\obj\Debug\UIAutomation.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UIAutomation\UIAutomation\obj\Debug\UIAutomation.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UIAutomation\UIAutomation\obj\Debug\UIAutomation.pdb
+C:\static\jaemzware\VS2008 PROJECTS\UIAutomation\UIAutomation\obj\Debug\UIAutomation.exe
+C:\static\jaemzware\VS2008 PROJECTS\UIAutomation\UIAutomation\obj\Debug\UIAutomation.pdb
